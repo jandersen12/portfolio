@@ -1,2 +1,2 @@
 # Portfolio
-Programming and data analysis projects
+Programming, data analysis, and research design projects
