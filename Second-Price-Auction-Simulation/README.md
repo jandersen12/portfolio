@@ -9,11 +9,11 @@ Bidders try to bid wisely based on how likely users are to click.
 
 Auction rounds simulate ad placements using second-price auction rules:
 
-Highest bidder wins
+- Highest bidder wins
 
-Winner pays the second-highest bid
+- Winner pays the second-highest bid
 
-If the ad is clicked, the winner gets $1
+- If the ad is clicked, the winner gets $1
 
 ### File Overview
 auction_and_users.py: Defines the User and Auction classes.
