@@ -7,4 +7,5 @@ Each project has its own directory containing a README explaining its purpose, a
 
 ### Contact me
 
-Please reach out to me if you have any questions or if you would just like to chat! jordanandersen@berkeley.edu | www.linkedin.com/in/jordanandersenprofile 
+Please reach out to me if you have any questions or if you would just like to chat!
+jordanandersen@berkeley.edu | www.linkedin.com/in/jordanandersenprofile 
