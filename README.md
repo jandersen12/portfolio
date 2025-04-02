@@ -1,5 +1,16 @@
 ##  Data Science Portfolio
-Welcome to my portfolio repository! This repository showcases the skills I have learned and how I have been able to implement them in hands-on projects with data analysis, problem solving, research design and algorithm building. Each project represents a hands-on application of the concepts I've learned, demonstrating my ability to turn data into insights and build solutions to complex challenges.
+
+Welcome to my portfolio repository! This repository showcases the skills I have learned and how I have been able to implement them in hands-on projects.
+
+Recently published projects are focused on:
+- Data cleaning and analysis in R and Python
+- Research design
+- Statistical analysis and hypothesis testing
+- Algorithm building
+
+Projects I'm currently working on:
+- Applying graph database algorithms in Neo4j using Python and SQL
+- Exploratory linear regression  
 
 ###  Repository Structure
 
